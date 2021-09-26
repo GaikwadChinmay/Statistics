@@ -14,7 +14,7 @@ This Notebooks demonstrates statistics concepts and their implementation using P
     - Median
     - Mode
     - Skewness
-    - Kutosis
+    - Kurtosis
   - Measure of Spread
     - Variance
     - Standard Deviation
